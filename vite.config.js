@@ -8,5 +8,7 @@ export default defineConfig({
   base: "/CurioKids/",
   plugins: [
     react(),
+    tailwindcss(),
+   
   ],
 });
