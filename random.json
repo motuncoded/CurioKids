@@ -11,36 +11,36 @@
   },
   {
     "id": 3,
-    "name": "aerplane",
+    "name": "aeroplane",
     "imageUrl": "./objects/aeroplane.jpg"
   },
   {
-    "id": 2,
+    "id": 4,
     "name": "boat",
     "imageUrl": "./objects/boat.png"
   },
   {
-    "id": 1,
+    "id": 5,
     "name": "cat",
     "imageUrl": "./objects/cat.png"
   },
   {
-    "id": 2,
+    "id": 6,
     "name": "headphone",
     "imageUrl": "./objects/headphone.jpg"
   },
   {
-    "id": 1,
+    "id": 7,
     "name": "truck",
     "imageUrl": "./objects/truck-1.png"
   },
   {
-    "id": 2,
+    "id": 8,
     "name": "phone",
     "imageUrl": "./objects/phone.jpg"
   },
   {
-    "id": 1,
+    "id": 9,
     "name": "truck",
     "imageUrl": "./objects/truck.png"
   }
