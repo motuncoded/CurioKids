@@ -7,7 +7,7 @@ function RandomObjects() {
   const [history, setHistory] = useState([]);
 
   useEffect(() => {
-    fetch("/random.json")
+    fetch("./random.json")
       .then((res) => res.json())
       .then((data) => {
         setCards(data);

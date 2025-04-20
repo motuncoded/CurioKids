@@ -5,10 +5,11 @@ import tailwindcss from '@tailwindcss/vite'
 
 
 export default defineConfig({
+  base: "/CurioKids/",
   plugins: [
     react(),
- tailwindcss(),
-     VitePWA({
+    tailwindcss(),
+    VitePWA({
       registerType: "autoUpdate",
       manifest: {
         name: "CurioKids",
