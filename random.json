@@ -2,46 +2,46 @@
   {
     "id": 1,
     "name": "apple",
-    "imageUrl": "/images/apple.png"
+    "imageUrl": "./objects/apple.png"
   },
   {
     "id": 2,
     "name": "ball",
-    "imageUrl": "/images/ball.png"
+    "imageUrl": "./objects/ball.png"
   },
   {
     "id": 3,
     "name": "aerplane",
-    "imageUrl": "/images/aeroplane.jpg"
+    "imageUrl": "./objects/aeroplane.jpg"
   },
   {
     "id": 2,
     "name": "boat",
-    "imageUrl": "/images/boat.png"
+    "imageUrl": "./objects/boat.png"
   },
   {
     "id": 1,
     "name": "cat",
-    "imageUrl": "/images/cat.png"
+    "imageUrl": "./objects/cat.png"
   },
   {
     "id": 2,
     "name": "headphone",
-    "imageUrl": "/images/headphone.jpg"
+    "imageUrl": "./objects/headphone.jpg"
   },
   {
     "id": 1,
     "name": "truck",
-    "imageUrl": "/images/truck-1.png"
+    "imageUrl": "./objects/truck-1.png"
   },
   {
     "id": 2,
     "name": "phone",
-    "imageUrl": "/images/phone.jpg"
+    "imageUrl": "./objects/phone.jpg"
   },
   {
     "id": 1,
     "name": "truck",
-    "imageUrl": "/images/truck.png"
+    "imageUrl": "./objects/truck.png"
   }
 ]
