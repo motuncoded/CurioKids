@@ -1,9 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { ArrowRight, ArrowLeft } from "lucide-react";
 
-
-
-export default function Card({imageUrl, name, onNext, onPrev}) {
+export default function Card({ imageUrl, name, onNext, onPrev }) {
   const [rotation, setRotation] = useState(0);
   const [isSwinging, setIsSwinging] = useState(false);
   const animationRef = useRef(null);
@@ -52,7 +50,7 @@ export default function Card({imageUrl, name, onNext, onPrev}) {
   }, []);
 
   return (
-    <div className="relative flex flex-col items-center">
+    <div className="relative flex flex-col items-center my-10">
       {/* Wooden peg */}
 
       <div className="w-6 h-20 bg-gradient-to-b from-amber-700 to-amber-900 rounded-md shadow-md z-10" />

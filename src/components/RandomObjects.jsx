@@ -43,7 +43,7 @@ function RandomObjects() {
   const currentCard = currentIndex !== null ? cards[currentIndex] : null;
 
   return (
-    <div>
+    <div clasName="">
       {currentCard && (
         <Card
           imageUrl={currentCard.imageUrl}
