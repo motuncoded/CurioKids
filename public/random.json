@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "apple",
+    "imageUrl": "/images/apple.png"
+  },
+  {
+    "id": 2,
+    "name": "ball",
+    "imageUrl": "/images/ball.png"
+  },
+  {
+    "id": 3,
+    "name": "aerplane",
+    "imageUrl": "/images/aeroplane.jpg"
+  },
+  {
+    "id": 2,
+    "name": "boat",
+    "imageUrl": "/images/boat.png"
+  },
+  {
+    "id": 1,
+    "name": "cat",
+    "imageUrl": "/images/cat.png"
+  },
+  {
+    "id": 2,
+    "name": "headphone",
+    "imageUrl": "/images/headphone.jpg"
+  },
+  {
+    "id": 1,
+    "name": "truck",
+    "imageUrl": "/images/truck-1.png"
+  },
+  {
+    "id": 2,
+    "name": "phone",
+    "imageUrl": "/images/phone.jpg"
+  },
+  {
+    "id": 1,
+    "name": "truck",
+    "imageUrl": "/images/truck.png"
+  }
+]
